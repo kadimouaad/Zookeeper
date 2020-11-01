@@ -1,0 +1,6 @@
+claas_1 = int(input())
+class_3 = int(input())
+desks1 = int((claas_1 // 2) + claas_1 % 2)
+desks2 = int((class_2 // 2) + class_2 % 2)
+desks3 = int((class_3 // 2) + class_3 % 2)
+print(int(desks1 + desks2 + desks3))
